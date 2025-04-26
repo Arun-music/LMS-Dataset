@@ -1,0 +1,26 @@
+"module_id";"course_id";"module_title";"module_description";"position"
+56;46;"Introduction to Python";"Learn the basics of Python programming.";1
+57;46;"Variables and Data Types";"Understand variables, data types, and operators.";2
+58;46;"Control Flow Statements";"Learn about if statements, loops, and more.";3
+59;46;"Functions in Python";"Learn how to define and use functions.";4
+60;46;"File Handling in Python";"Read and write files in Python.";5
+61;57;"Introduction to R";"Get started with R programming for data science.";1
+62;47;"Data Manipulation with dplyr";"Learn data manipulation techniques using dplyr.";2
+63;47;"Data Visualization with ggplot2";"Create beautiful data visualizations using ggplot2.";3
+64;47;"Statistical Analysis in R";"Learn basic and advanced statistical methods in R.";4
+65;47;"Machine Learning with R";"Introduction to machine learning techniques in R.";5
+66;48;"Introduction to Web Development";"Overview of web development technologies.";1
+67;48;"HTML and CSS Basics";"Learn to build web pages using HTML and CSS.";2
+68;48;"JavaScript Basics";"Learn the fundamentals of JavaScript programming.";3
+69;48;"Backend Development with Node.js";"Introduction to backend development using Node.js.";4
+70;48;"Full-Stack Project: Building a Web App";"Build a full-stack web application.";5
+71;49;"Introduction to Machine Learning";"Overview of machine learning concepts.";1
+72;49;"Linear Regression";"Learn about regression and its applications.";2
+73;49;"Classification Algorithms";"Understand the basics of classification.";3
+74;49;"Clustering Algorithms";"Introduction to clustering techniques.";4
+75;49;"Neural Networks Basics";"Learn the basics of neural networks.";5
+76;50;"Introduction to Cloud Computing";"Overview of cloud computing concepts.";1
+77;50;"Cloud Service Models";"Learn about IaaS, PaaS, and SaaS models.";2
+78;50;"Virtualization and Cloud Platforms";"Understand the importance of virtualization in the cloud.";3
+79;50;"Cloud Storage Solutions";"Overview of cloud storage and its applications.";4
+80;50;"Cloud Security Basics";"Learn about security in the cloud.";5
